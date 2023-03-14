@@ -10,5 +10,10 @@ namespace ConsoleApp24
         {
             Console.WriteLine("Novo");
         }
+        
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
     }
 }
