@@ -8,6 +8,13 @@ namespace ConsoleApp24
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("Novo");
+        }
+        
+        static void Main(string[] args)
+        {
+
             Console.WriteLine("Hello World!");
         }
     }
